@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\bin\Debug\Present value calculator.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\bin\Debug\Present value calculator.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\bin\Debug\Present value calculator.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present_value_calculator.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Present value calculator\Present value calculator\obj\Debug\Present value calculator.pdb
